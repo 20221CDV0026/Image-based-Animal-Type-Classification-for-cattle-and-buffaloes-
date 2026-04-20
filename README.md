@@ -46,3 +46,10 @@ Current Status
 
 Author
 Your Name
+
+
+
+Due to GitHub file size limitations, the trained model and dataset are not included.
+
+Model and dataset can be accessed via:
+[Google Drive Link]
