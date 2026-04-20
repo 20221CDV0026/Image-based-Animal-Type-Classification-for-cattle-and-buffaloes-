@@ -1,31 +1,48 @@
- Image-based-Animal-Type-Classification-for-cattle-and-buffaloes
+Livestock Vision Pro System
 
- # AI-Based Smart Livestock Identification System
+Overview
+This project presents an AI-based livestock identification system that classifies cattle and buffalo using image-based deep learning techniques. The system ensures accurate identification, prevents duplicate registrations, and supports livestock management.
 
-This project focuses on image-based animal type classification for cattle and buffaloes using deep learning techniques.
+Features
+- Neural Identity Scanner
+- Real-time Livestock Classification (Cattle / Buffalo)
+- Duplicate Identity Detection
+- Digital Livestock Registry
+- Security Audit and Collision Monitoring
+- Market Valuation Analytics
+- Health Intelligence Monitoring
 
-Project Details
-Course: CSE7302 – University Project
-Program: B.Tech CSE (DevOps)
-Institution: Presidency University
+Technologies Used
+- Python
+- TensorFlow / PyTorch
+- OpenCV
+- React.js (Frontend)
+- Flask / FastAPI (Backend)
+- SQLite / MongoDB
 
-Team Members
-Harshitha KJ (20221CDV0026)
-Susmitha S (20221CDV0038)
-Greeshma (20221CDV0040)
-
-Current Status
-Review-1 and Review-2 completed
-Literature survey and system design finalized
-Implementation phase in progress
-
-Technologies
-Python
-CNN
-TensorFlow / PyTorch
-OpenCV
+System Workflow
+1. Upload livestock image
+2. Image processed using trained CNN model
+3. Classification result generated
+4. Unique identity hash created
+5. Data stored in registry and monitored for duplicates
 
 Repository Structure
-presentation/ – Review PPTs
-documentation/ – Reports and documents
-src/ – Source code (to be added)
+- presentation/ → Review PPTs
+- documentation/ → Reports and documents
+- src/ → Source code (Frontend + Backend + Model)
+
+How to Run
+1. Clone the repository
+2. Install required dependencies
+3. Run backend server
+4. Run frontend application
+5. Upload image to test classification
+
+Current Status
+- Model trained and tested
+- Web interface developed
+- System integration completed
+
+Author
+Your Name
