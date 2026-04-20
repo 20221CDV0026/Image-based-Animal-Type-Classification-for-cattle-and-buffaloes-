@@ -53,3 +53,8 @@ Due to GitHub file size limitations, the trained model and dataset are not inclu
 
 Model and dataset can be accessed via:
 [Google Drive Link]
+
+
+Resources
+Model: [<link>](https://drive.google.com/file/d/1xFwS3VlSLehB6fJ_CqzBkk8NgMLYGEzm/view?usp=drive_link)
+Dataset: [<link>](https://drive.google.com/drive/folders/1mmnW5FMlwo-87UgGzGAxZ-ypK6UE3WpV?usp=drive_link)
