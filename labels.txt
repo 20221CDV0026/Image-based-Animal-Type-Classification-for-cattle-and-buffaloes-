@@ -1,0 +1,3 @@
+0 Cattle
+1 Buffalo
+2 Other

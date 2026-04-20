@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Animal Identified</h1>
+
+    <p><b>Animal ID:</b> {{ animal_id }}</p>
+    <p><b>Type:</b> {{ animal_type }}</p>
+    <p><b>Breed:</b> {{ breed }}</p>
+    <p><b>Health Status:</b> {{ health_status }}</p>
+
+    <img src="/{{ image }}" width="400">
+
+    <br><br>
+    <a href="/">Upload Another</a>
+
+</div>
+
+</body>
+</html>
