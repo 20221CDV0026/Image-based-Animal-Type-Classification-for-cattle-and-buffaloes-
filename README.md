@@ -68,3 +68,5 @@ Team Members
 Results
 The system achieved high classification accuracy and successfully detects duplicate identities, ensuring reliability in livestock monitoring systems.
 
+All reports and presentations are available in the /docs folder.
+
