@@ -70,3 +70,6 @@ The system achieved high classification accuracy and successfully detects duplic
 
 All reports and presentations are available in the /docs folder.
 
+Similarity, plagarism reports are uploaded.
+
+
